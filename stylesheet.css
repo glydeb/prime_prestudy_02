@@ -1,0 +1,14 @@
+body {
+	color: #FF0000;
+}
+
+header {
+	background: radial-gradient(yellow, rgb(30, 144, 255));
+}
+
+h1 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 26px;
+	text-align: center;
+}
